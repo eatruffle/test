@@ -3,7 +3,7 @@ pragma solidity >=0.6.0 <0.9.0;
 contract Ball {
 
 uint private test;
-
+//test
   function setTest(uint _test) public {
 	test = _test;
 }
