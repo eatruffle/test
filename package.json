@@ -1,0 +1,25 @@
+{
+  "name": "soliditytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+"dependencies": {
+"truffle-assertions":"0.9.2"
+},
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatruffle/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eatruffle/test/issues"
+  },
+  "homepage": "https://github.com/eatruffle/test#readme"
+}
